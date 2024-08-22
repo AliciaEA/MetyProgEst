@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\bin\Debug\net8.0\NumeroParimpar.exe
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\bin\Debug\net8.0\NumeroParimpar.deps.json
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\bin\Debug\net8.0\NumeroParimpar.runtimeconfig.json
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\bin\Debug\net8.0\NumeroParimpar.dll
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\bin\Debug\net8.0\NumeroParimpar.pdb
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.dll
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\refint\NumeroParimpar.dll
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.pdb
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\NumeroParimpar.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\NumeroParimpar\NumeroParimpar\obj\Debug\net8.0\ref\NumeroParimpar.dll

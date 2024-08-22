@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Saludo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC3EE5-06BB-4338-A80E-7A957FA0649E}|Saludo\\Saludo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\saludo\\saludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC3EE5-06BB-4338-A80E-7A957FA0649E}|Saludo\\Saludo.csproj|solutionrelative:saludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Saludo\\Saludo\\Program.cs",
+              "RelativeDocumentMoniker": "Saludo\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Saludo\\Saludo\\Program.cs",
+              "RelativeToolTip": "Saludo\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA+wAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:05:29.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

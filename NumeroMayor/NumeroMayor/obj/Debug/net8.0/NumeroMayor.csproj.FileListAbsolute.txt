@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\bin\Debug\net8.0\NumeroMayor.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\bin\Debug\net8.0\NumeroMayor.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\bin\Debug\net8.0\NumeroMayor.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\bin\Debug\net8.0\NumeroMayor.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\bin\Debug\net8.0\NumeroMayor.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\refint\NumeroMayor.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\NumeroMayor.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\NumeroMayor\NumeroMayor\obj\Debug\net8.0\ref\NumeroMayor.dll

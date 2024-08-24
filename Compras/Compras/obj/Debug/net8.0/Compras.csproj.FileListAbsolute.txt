@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\bin\Debug\net8.0\Compras.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\bin\Debug\net8.0\Compras.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\bin\Debug\net8.0\Compras.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\bin\Debug\net8.0\Compras.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\bin\Debug\net8.0\Compras.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\refint\Compras.dll
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\Compras.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MyPE\Compras\Compras\obj\Debug\net8.0\ref\Compras.dll

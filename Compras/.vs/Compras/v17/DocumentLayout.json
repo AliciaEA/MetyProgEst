@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FFB40-C2B9-44DF-A4AE-43E23C74B1A1}|Calculadora\\Calculadora.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FFB40-C2B9-44DF-A4AE-43E23C74B1A1}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\areacirculo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\areacirculo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaCirculo",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
+              "RelativeDocumentMoniker": "AreaCirculo\\AreaCirculo.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
+              "RelativeToolTip": "AreaCirculo\\AreaCirculo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T03:04:21.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\CalcularNota\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularNota\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\CalcularNota\\Program.cs",
+              "RelativeToolTip": "CalcularNota\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:12:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:12:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCirculo\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\Program.cs",
+              "RelativeToolTip": "AreaCirculo\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:09:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\clases\\Circulo.cs",
+              "RelativeDocumentMoniker": "AreaCirculo\\clases\\Circulo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\clases\\Circulo.cs",
+              "RelativeToolTip": "AreaCirculo\\clases\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T03:05:18.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

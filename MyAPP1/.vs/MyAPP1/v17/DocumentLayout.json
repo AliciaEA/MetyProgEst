@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\MyAPP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEDBCFF-778B-4222-B638-541635A7135D}|MyAPP1\\MyAPP1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metpro2s2\\myapp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEDBCFF-778B-4222-B638-541635A7135D}|MyAPP1\\MyAPP1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEDBCFF-778B-4222-B638-541635A7135D}|MyAPP1\\MyAPP1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metpro2s2\\myapp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AEDBCFF-778B-4222-B638-541635A7135D}|MyAPP1\\MyAPP1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\MyAPP1\\MyAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "MyAPP1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\MyAPP1\\MyAPP1\\FrmPrincipal.cs",
+              "RelativeToolTip": "MyAPP1\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:39:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\MyAPP1\\MyAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "MyAPP1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\MyAPP1\\MyAPP1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MyAPP1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:00:52.996Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

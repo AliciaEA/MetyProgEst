@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MetPro2S2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.FrmPrincipal.resources

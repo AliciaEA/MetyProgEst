@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\bin\Debug\EvalueAge.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\bin\Debug\EvalueAge.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\bin\Debug\EvalueAge.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\EvalueAge\EvalueAge\obj\Debug\EvalueAge.pdb

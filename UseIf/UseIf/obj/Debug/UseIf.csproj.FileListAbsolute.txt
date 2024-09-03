@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\bin\Debug\UseIf.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\bin\Debug\UseIf.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\bin\Debug\UseIf.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\obj\Debug\UseIf.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\obj\Debug\UseIf.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\obj\Debug\UseIf.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\UseIf\UseIf\obj\Debug\UseIf.pdb

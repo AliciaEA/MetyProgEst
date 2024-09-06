@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F25F91-BD82-4D4A-9531-C03EA625F7D9}|Sesion2\\Sesion2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metpro2s2\\sesion2\\sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F25F91-BD82-4D4A-9531-C03EA625F7D9}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F25F91-BD82-4D4A-9531-C03EA625F7D9}|Sesion2\\Sesion2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metpro2s2\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F25F91-BD82-4D4A-9531-C03EA625F7D9}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Sesion2\\clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeToolTip": "Sesion2\\clases\\Persona.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:08.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion2\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetPro2S2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeToolTip": "Sesion2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:03.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00FFB40-C2B9-44DF-A4AE-43E23C74B1A1}|Calculadora\\Calculadora.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00FFB40-C2B9-44DF-A4AE-43E23C74B1A1}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\compras\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\compras\\calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03EEB053-F95E-4AB5-938D-B31D8A8F918E}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\mype\\compras\\areacirculo\\areacirculo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\areacirculo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\compras\\areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8BC61-B00C-4D07-8192-B358CE690BEB}|AreaCirculo\\AreaCirculo.csproj|solutionrelative:areacirculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\clases\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AreaCirculo\\clases\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AreaCirculo",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
-              "RelativeDocumentMoniker": "AreaCirculo\\AreaCirculo.csproj",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
-              "RelativeToolTip": "AreaCirculo\\AreaCirculo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T03:04:21.252Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\CalcularNota\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\CalcularNota\\Program.cs",
               "RelativeDocumentMoniker": "CalcularNota\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\CalcularNota\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\CalcularNota\\Program.cs",
               "RelativeToolTip": "CalcularNota\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T03:12:23.3Z",
+              "WhenOpened": "2024-08-26T19:42:28.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Calculadora\\Program.cs",
-              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Calculadora\\Program.cs",
-              "RelativeToolTip": "Calculadora\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T03:12:11.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\Program.cs",
-              "RelativeDocumentMoniker": "AreaCirculo\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\Program.cs",
-              "RelativeToolTip": "AreaCirculo\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswDAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T03:09:00.344Z",
+              "Title": "CalcularNota",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\CalcularNota\\CalcularNota.csproj",
+              "RelativeDocumentMoniker": "CalcularNota\\CalcularNota.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\CalcularNota\\CalcularNota.csproj",
+              "RelativeToolTip": "CalcularNota\\CalcularNota.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T19:42:25.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\clases\\Circulo.cs",
-              "RelativeDocumentMoniker": "AreaCirculo\\clases\\Circulo.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\clases\\Circulo.cs",
-              "RelativeToolTip": "AreaCirculo\\clases\\Circulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\clases\\Class1.cs",
+              "RelativeDocumentMoniker": "AreaCirculo\\clases\\Class1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\clases\\Class1.cs",
+              "RelativeToolTip": "AreaCirculo\\clases\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T03:05:18.212Z",
+              "WhenOpened": "2024-08-26T00:22:51.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCirculo\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\Program.cs",
+              "RelativeToolTip": "AreaCirculo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:18:00.132Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\bin\Debug\If&Else.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\bin\Debug\If&Else.exe
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\bin\Debug\If&Else.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\obj\Debug\If&Else.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\obj\Debug\If&Else.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\obj\Debug\If&Else.exe
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\If&Else\obj\Debug\If&Else.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Compras\\Compras.csproj": {}
+    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\Compras\\Compras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Compras\\Compras.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\Compras\\Compras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Compras\\Compras.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\Compras\\Compras.csproj",
         "projectName": "Compras",
-        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Compras\\Compras.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\Compras\\Compras.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\Compras\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\Compras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\AreaCirculo.csproj",
       "projectName": "AreaCirculo",
-      "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\AreaCirculo.csproj",
+      "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\AreaCirculo.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MyPE\\Compras\\AreaCirculo\\obj\\",
+      "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Compras\\AreaCirculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",

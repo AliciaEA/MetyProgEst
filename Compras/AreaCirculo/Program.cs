@@ -1,11 +1,14 @@
 ﻿using AreaCirculo.clases;
 
+
 namespace AreaCirculo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Class1 class1 = new Class1();
+            
             Circulo circulo = new Circulo();
             double radio = 0, resultado = 0;
 
@@ -13,6 +16,7 @@ namespace AreaCirculo
             do
             {
                 Console.Clear();
+                Console.WriteLine(class1.Print());
                 Console.WriteLine("Bienvenido, que quieres calcular?");
                 Console.WriteLine("1. Calcular Area de un Circulo ");
                 Console.WriteLine("2. Calcular Perimetro de un Circulo");

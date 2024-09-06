@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.exe.config
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.exe
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.pdb
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.exe
+C:\Users\USUARIO\source\repos\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.exe
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\bin\Debug\TomaDeDecisionesIf.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.exe
+C:\Users\USUARIO\OneDrive\Escritorio\C#Microsoft\SentenciasDeControl\TomaDeDecisionesIf\obj\Debug\TomaDeDecisionesIf.pdb

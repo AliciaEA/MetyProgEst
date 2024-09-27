@@ -15,8 +15,8 @@ namespace Estructuras
         struct Punto
 
         {
-            public int X;
-            public int Y;
+            public int X { get; set; }
+            public int Y { get; set; }
 
             public Punto(int x, int y)
             {
@@ -89,23 +89,8 @@ namespace Estructuras
         }
         private void ShowData()
         {
-            //Limpiamos el datagridview para que no se repitan datos
-            dgvPuntos.Rows.Clear();
-            if (dgvPuntos.Columns.Count == 0)
-            {
-                dgvPuntos.Columns.Add("X", "X");//Agregamos columna X
-                dgvPuntos.Columns.Add("Y", "Y");//Agregamos columna Y
-            }
-
-            for (int i = 0; i < MAX; i++)
-            {
-                if (puntos[i].X != 0 && puntos[i].Y != 0)
-                {
-                    dgvPuntos.Rows.Add(puntos[i].X, puntos[i].Y);
-                    //Agregamos una fila, y en cada columna agregamos los valores de X y Y
-                }
-            }
-
+            dgvPuntos.DataSource = null;
+            dgvPuntos.DataSource = puntos;
 
         }
 

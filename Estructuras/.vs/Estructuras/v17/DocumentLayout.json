@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|solutionrelative:estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|solutionrelative:estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\estructuras\\estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|solutionrelative:estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\estructuras\\estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77CC8734-9756-4CCB-933A-D00FBA545E10}|Estructuras\\Estructuras.csproj|solutionrelative:estructuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\Estructuras\\Form1.cs",
               "RelativeDocumentMoniker": "Estructuras\\Form1.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\Estructuras\\Form1.cs",
               "RelativeToolTip": "Estructuras\\Form1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAlwGgAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA5wBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T13:26:47.192Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Estructuras\\Estructuras\\Form1.cs",
               "RelativeDocumentMoniker": "Estructuras\\Form1.cs",

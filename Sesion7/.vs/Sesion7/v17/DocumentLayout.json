@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\source\\repos\\sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\source\\repos\\sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\source\\repos\\sesion7\\ejercicio1\\modelos\\generalage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\ejercicio1\\modelos\\generalage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\modelos\\generalage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\metyprogest\\sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{211EE207-1AB9-4FA4-8308-A2EDD1EA664A}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\Form1.cs",
               "RelativeToolTip": "Ejercicio1\\Form1.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwDIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:47:38.197Z",
               "IsPinned": true,
@@ -40,11 +40,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GeneralAge.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\modelos\\GeneralAge.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\modelos\\GeneralAge.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\modelos\\GeneralAge.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\modelos\\GeneralAge.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\modelos\\GeneralAge.cs",
               "RelativeToolTip": "Ejercicio1\\modelos\\GeneralAge.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,11 +53,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Sesion7\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\MetyProgEst\\Sesion7\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:18:42.437Z",

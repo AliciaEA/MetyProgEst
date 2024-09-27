@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+C:\Users\USUARIO\OneDrive\Escritorio\MetyProgEst\Estructuras\Estructuras\obj\Debug\Estructuras.pdb
